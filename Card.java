@@ -1,3 +1,6 @@
+//Simaal Belgaumi
+//CPSC 39
+//Linked List
 //package cardGame;
 
 public class Card {
